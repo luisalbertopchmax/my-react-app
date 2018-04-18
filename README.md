@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+This project its the following tutorial of [Tutorial: Intro To React](https://reactjs.org/tutorial/tutorial.html).
+
 Here you can see the React original [README](https://github.com/luisalbertopchmax/my-react-app/blob/master/README_REACT.md).
 
 ## Table of Contents
